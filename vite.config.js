@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/ST-L2-Task5",
+  base: "/ST-Training-L2-Task5",
   plugins: [react()],
 })
